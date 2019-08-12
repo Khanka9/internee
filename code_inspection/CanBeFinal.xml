@@ -1,0 +1,122 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/ListItem.java</file>
+  <line>5</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.ListItem title" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/ListItem.java</file>
+  <line>8</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.ListItem rating" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/ListItem.java</file>
+  <line>9</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.ListItem releaseYear" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/ListItem.java</file>
+  <line>6</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.ListItem desc" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/ListItem.java</file>
+  <line>7</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.ListItem imageUrl" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MyAdapter.java</file>
+  <line>57</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.MyAdapter.ViewHolder textViewHead" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MyAdapter.java</file>
+  <line>60</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.MyAdapter.ViewHolder textViewreleaseYear" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MyAdapter.java</file>
+  <line>61</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.MyAdapter.ViewHolder imageView" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MyAdapter.java</file>
+  <line>58</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.MyAdapter.ViewHolder textViewDesc" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MyAdapter.java</file>
+  <line>59</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.MyAdapter.ViewHolder textViewRating" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MyAdapter.java</file>
+  <line>20</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.MyAdapter listItems" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MyAdapter.java</file>
+  <line>21</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.MyAdapter context" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have final modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+</problem>
+</problems>

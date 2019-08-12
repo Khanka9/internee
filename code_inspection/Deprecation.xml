@@ -1,0 +1,29 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/jingle/movies4u/ExampleInstrumentedTest.java</file>
+  <line>18</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="class" FQNAME="com.jingle.movies4u.ExampleInstrumentedTest" />
+  <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated API usage</problem_class>
+  <description>'androidx.test.runner.AndroidJUnit4' is deprecated</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/jingle/movies4u/ExampleInstrumentedTest.java</file>
+  <line>23</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="method" FQNAME="com.jingle.movies4u.ExampleInstrumentedTest void useAppContext()" />
+  <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated API usage</problem_class>
+  <description>'androidx.test.InstrumentationRegistry' is deprecated</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/jingle/movies4u/ExampleInstrumentedTest.java</file>
+  <line>23</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="method" FQNAME="com.jingle.movies4u.ExampleInstrumentedTest void useAppContext()" />
+  <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated API usage</problem_class>
+  <description>'getTargetContext()' is deprecated</description>
+</problem>
+</problems>

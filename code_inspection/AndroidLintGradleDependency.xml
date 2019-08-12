@@ -1,0 +1,12 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/build.gradle</file>
+  <line>10</line>
+  <module>Movies4u</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/build.gradle" />
+  <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of com.android.tools.build:gradle than 3.4.1 is available: 3.4.2&lt;/html&gt;</description>
+</problem>
+</problems>

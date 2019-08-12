@@ -1,0 +1,20 @@
+<problems>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MainActivity.java</file>
+  <line>97</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="method" FQNAME="com.jingle.movies4u.MainActivity$3 void onResponse(java.lang.String response)" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'releaseyear'</description>
+</problem>
+  <problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/jingle/movies4u/MyAdapter.java</file>
+  <line>60</line>
+  <module>app</module>
+  <package>com.jingle.movies4u</package>
+  <entry_point TYPE="field" FQNAME="com.jingle.movies4u.MyAdapter.ViewHolder textViewreleaseYear" />
+  <problem_class severity="TYPO" attribute_key="TYPO">Typo</problem_class>
+  <description>Typo: In word 'Viewrelease'</description>
+</problem>
+</problems>
